@@ -1,0 +1,15 @@
+/home/chase/projects/221/solutions/lab-6-demo/bin/Debug/net7.0/lab-6-demo
+/home/chase/projects/221/solutions/lab-6-demo/bin/Debug/net7.0/lab-6-demo.deps.json
+/home/chase/projects/221/solutions/lab-6-demo/bin/Debug/net7.0/lab-6-demo.runtimeconfig.json
+/home/chase/projects/221/solutions/lab-6-demo/bin/Debug/net7.0/lab-6-demo.dll
+/home/chase/projects/221/solutions/lab-6-demo/bin/Debug/net7.0/lab-6-demo.pdb
+/home/chase/projects/221/solutions/lab-6-demo/obj/Debug/net7.0/lab-6-demo.csproj.AssemblyReference.cache
+/home/chase/projects/221/solutions/lab-6-demo/obj/Debug/net7.0/lab-6-demo.GeneratedMSBuildEditorConfig.editorconfig
+/home/chase/projects/221/solutions/lab-6-demo/obj/Debug/net7.0/lab-6-demo.AssemblyInfoInputs.cache
+/home/chase/projects/221/solutions/lab-6-demo/obj/Debug/net7.0/lab-6-demo.AssemblyInfo.cs
+/home/chase/projects/221/solutions/lab-6-demo/obj/Debug/net7.0/lab-6-demo.csproj.CoreCompileInputs.cache
+/home/chase/projects/221/solutions/lab-6-demo/obj/Debug/net7.0/lab-6-demo.dll
+/home/chase/projects/221/solutions/lab-6-demo/obj/Debug/net7.0/refint/lab-6-demo.dll
+/home/chase/projects/221/solutions/lab-6-demo/obj/Debug/net7.0/lab-6-demo.pdb
+/home/chase/projects/221/solutions/lab-6-demo/obj/Debug/net7.0/lab-6-demo.genruntimeconfig.cache
+/home/chase/projects/221/solutions/lab-6-demo/obj/Debug/net7.0/ref/lab-6-demo.dll
