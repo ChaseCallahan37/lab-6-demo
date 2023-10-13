@@ -1,4 +1,3 @@
-﻿using Microsoft.VisualBasic;
 
 string[] states = new string[100];
 int count = 0;
